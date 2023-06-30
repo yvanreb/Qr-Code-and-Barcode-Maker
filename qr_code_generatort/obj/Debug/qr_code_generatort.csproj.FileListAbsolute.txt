@@ -1,0 +1,33 @@
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\qr_code_generatort.exe.config
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\qr_code_generatort.exe
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\qr_code_generatort.pdb
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.Form1.resources
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.Properties.Resources.resources
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csproj.GenerateResource.Cache
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.exe
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.pdb
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.dll
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.presentation.dll
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.pdb
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.xml
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.presentation.pdb
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.presentation.xml
+C:\Users\yvanr\OneDrive\Documents\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csprojResolveAssemblyReference.cache
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\qr_code_generatort.exe.config
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\qr_code_generatort.exe
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\qr_code_generatort.pdb
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\Zen.Barcode.Core.dll
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.dll
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.presentation.dll
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.xml
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\bin\Debug\zxing.presentation.xml
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csproj.AssemblyReference.cache
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csproj.SuggestedBindingRedirects.cache
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.Form1.resources
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.Properties.Resources.resources
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csproj.GenerateResource.cache
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csproj.CoreCompileInputs.cache
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.csproj.CopyComplete
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.exe
+F:\All Files\FIles\Docs\Visual Studio 2015\Projects\qr_code_generatort\qr_code_generatort\obj\Debug\qr_code_generatort.pdb
